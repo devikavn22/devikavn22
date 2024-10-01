@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devika V, Software Developer
-- 👀 I’m interested in javaScript, TypeScript , React , and MERN stack
-- 🌱 I’m currently learning AWS
+- 👀 I’m interested in javaScript, TypeScript , React , NodeJS, and MERN stack
+- 🌱 I’m currently learning AWS and NextJS
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me ...
 
