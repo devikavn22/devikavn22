@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Devika V, Software Developer
-- 👀 I’m interested in javaScript, TypeScript , React , NodeJS, and MERN stack
+- 👀 I’m interested in  MERN stack, and building Interesting AI/ML end-to-end fullstack apps.
 - 🌱 I’m currently learning AWS and NextJS
 - 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me ...
